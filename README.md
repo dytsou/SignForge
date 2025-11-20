@@ -1,4 +1,4 @@
-# Traffic Sign Recognition - Modular Framework v2.0
+# SignForge: A Modular Framework for Traffic Sign Recognition
 
 A comprehensive, modular framework for traffic sign recognition with support for multiple architectures, parallel training, and advanced visualization capabilities.
 
